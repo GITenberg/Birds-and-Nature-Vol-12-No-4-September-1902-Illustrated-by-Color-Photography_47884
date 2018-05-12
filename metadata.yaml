@@ -1,10 +1,14 @@
 _repo: Birds-and-Nature-Vol-12-No-4-September-1902-Illustrated-by-Color-Photography_47884
+_version: 0.1.0
 contributor:
   creator:
     editor:
       agent_name: Higley, William Kerr
       gutenberg_agent_id: '44342'
       url: http://www.gutenberg.org/2009/agents/44342
+covers:
+- cover_type: archival
+  image_path: 47884-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -12,6 +16,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47884#Birds-and-Nature-Vol-12-No-4-September-1902-Illustrated-by-Color-Photography
 gutenberg_issued: '2015-01-05'
 gutenberg_type: Text
 identifiers:
